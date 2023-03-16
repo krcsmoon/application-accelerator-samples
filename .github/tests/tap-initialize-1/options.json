@@ -1,6 +1,0 @@
-{
-  "targetProject": "target-project",
-  "includeHasTests": false,
-  "liveUpdateIDESupport": true,
-  "sourceRepositoryPrefix": "dev.local"
-}
